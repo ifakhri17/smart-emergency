@@ -1,0 +1,39 @@
+{
+  "project_info": { 
+    "project_number": "928726560439",
+    "project_id": "smartemergency-780d1",
+    "storage_bucket": "smartemergency-780d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928726560439:android:12a4f9d4bf4f1b54a12732",
+        "android_client_info": {
+          "package_name": "com.TA.smart_emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928726560439-ljqovkfafr7fug1nfo7un7m2vd4bk1o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJoN1_IULOumf7s6tX_eUt0KZo1I0XvrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928726560439-ljqovkfafr7fug1nfo7un7m2vd4bk1o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
